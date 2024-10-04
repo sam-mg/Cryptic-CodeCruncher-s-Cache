@@ -1,0 +1,1 @@
+print(''.join(chr(int(bv, 2)) for bv in open('Huntress/Too Many Bits/File.txt').read().strip().split()))
