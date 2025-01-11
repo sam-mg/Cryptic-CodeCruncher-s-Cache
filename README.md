@@ -45,3 +45,5 @@ This repository contains the CTFs I have participated in and the write-ups of th
 || Patterned Secrets | `Android` | [File](niteCTF%20%282024%29%2FPatterned%20Secrets%2FFiles%2Fchall.avd.zip) | [Coming-Soon] |
 || freakada 3301 | `OSINT` | [File](niteCTF%20%282024%29%2Ffreakada%203301%2FFiles%2Ffreakada_3301_message.png) | [Coming-Soon] |
 | m0lecon (2025) Beginner | DroidCryptor | `Android` | [File](m0lecon%20%282025%29%20Beginner%2FDroidCryptor%2FFiles%2Fapp-debug.apk) | [Coming-Soon] |
+
+<img src="https://wakatime.com/badge/user/f5bf5341-405c-480f-bd76-40a5c1a8ada9/project/9c6a4655-eaeb-4796-a3d7-f09bba6390ef.svg" alt="WakaTime Repo Image" style="float: right;">
