@@ -16,7 +16,6 @@ This repository contains the CTFs I have participated in and the write-ups of th
 || Cattle | `Warm-ups` | [File](Huntress%20%282024%29%2FCattle/Files/cattle) | [Write-up](Huntress%20%282024%29%2FCattle/Write-Up.md) |
 || No need for Brutus | `Warm-ups` | [File](Huntress%20%282024%29%2FNo%20need%20for%20Brutus/Files/No%20need%20for%20Brutus.txt) | [Write-up](Huntress%20%282024%29%2FNo%20need%20for%20Brutus/Write-Up.md) |
 || Base64by32 | `Warm-ups` | [File](Huntress%20%282024%29%2FBase64by32/Files/base64by32.txt) | [Write-up](Huntress%20%282024%29%2FBase64by32/Write-Up.md) |
-|| Endgame | `Android` | [File](TCP1P%20%282024%29%2FEndgame%2FFiles%2Fapp-release_signed.apk) | [Coming-Soon] |
 | Flare-On11 (2024) | frog | `Misc` | [File](Flare-On11%20%282024%29%2Ffrog%2FFiles%2Ffrog.7z) | [Write-up](Flare-On11%20%282024%29%2Ffrog/Write-Up.md) |
 || checksum | `re` | [File](Flare-On11%20%282024%29%2Fchecksum%2FFiles%2Fchecksum.7z) | [Write-up](Flare-On11%20%282024%29%2Fchecksum/Write-Up.md) |
 | IRON CTF (2024) | TreasureHunt | `Android` `Warm-ups` | [File](IRON%20CTF%20%282024%29%2FTreasureHunt%2FFiles%2FTreasureHunt.apk) | [Write-up](IRON%20CTF%20%282024%29%2FTreasureHunt/Write-Up.md) |
@@ -37,7 +36,7 @@ This repository contains the CTFs I have participated in and the write-ups of th
 | PwnSec (2024) | ezmobile | `Android` | [File](PwnSec%20%282024%29%2Fezmobile%2FFiles%2Fezmobile.apk) | [Write-up](PwnSec%20%282024%29%2Fezmobile/Write-Up.md) |
 || Firestorm | `Android` | [File](PwnSec%20%282024%29%2FFirestorm%2FFiles%2FFireStorm.apk) | [Write-up](PwnSec%20%282024%29%2FFirestorm/Write-Up.md) |
 || FireInTheHole | `Android` | [File](PwnSec%20%282024%29%2FFireInTheHole/Files/FireInTheHole.apk) | [Write-up](PwnSec%20%282024%29%2FFireInTheHole/Write-Up.md) |
-|| Snake | `Android` | [File](PwnSec%20%282024%29%2FSnake%2FFiles%2Fsnake.apk) | [Coming-Soon] |
+|| Snake | `Android` | [File](PwnSec%20%282024%29%2FSnake%2FFiles%2Fsnake.apk) | [Write-up](PwnSec%20%282024%29%2FSnake%2FWrite-Up.md) |
 | World Wide Flags CTF (2024) | truyencuoiremind | `Android` | [File](World%20Wide%20Flags%20%282024%29%2Ftruyencuoiremind%2FFiles%2Ftruyencuoiremind_wwf.apk) | [Coming-Soon] |
 | LakeCTF (2024) | AndroidApplaketion | `Android` | [File](LakeCTF%20%282024%29%2FAndroidApplaketion%2FFiles%2FAndroidApplaketion.apk) | [Coming-Soon] |
 | WannaGame Championship (2024) | AndroidNote | `Android` | [File](WannaGame%20Championship%20%282024%29%2FAndroid%20Note%2FFiles%2FAndroidNote.apk.zst) | [Coming-Soon] |
