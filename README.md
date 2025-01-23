@@ -37,7 +37,7 @@ This repository contains the CTFs I have participated in and the write-ups of th
 || Firestorm | `Android` | [File](PwnSec%20%282024%29%2FFirestorm%2FFiles%2FFireStorm.apk) | [Write-up](PwnSec%20%282024%29%2FFirestorm/Write-Up.md) |
 || FireInTheHole | `Android` | [File](PwnSec%20%282024%29%2FFireInTheHole/Files/FireInTheHole.apk) | [Write-up](PwnSec%20%282024%29%2FFireInTheHole/Write-Up.md) |
 || Snake | `Android` | [File](PwnSec%20%282024%29%2FSnake%2FFiles%2Fsnake.apk) | [Write-up](PwnSec%20%282024%29%2FSnake%2FWrite-Up.md) |
-| World Wide Flags CTF (2024) | truyencuoiremind | `Android` | [File](World%20Wide%20Flags%20%282024%29%2Ftruyencuoiremind%2FFiles%2Ftruyencuoiremind_wwf.apk) | [Coming-Soon] |
+| World Wide Flags CTF (2024) | Remind's Funny Stories 3 | `Android` | [File](World%20Wide%20Flags%20%282024%29%2FRemind%27s%20Funny%20Stories%203%2FFiles%2Ftruyencuoiremind_wwf.apk) | [Write-up](World%20Wide%20Flags%20%282024%29%2FRemind%27s%20Funny%20Stories%203%2FWrite-Up.md) |
 | LakeCTF (2024) | AndroidApplaketion | `Android` | [File](LakeCTF%20%282024%29%2FAndroidApplaketion%2FFiles%2FAndroidApplaketion.apk) | [Coming-Soon] |
 | WannaGame Championship (2024) | AndroidNote | `Android` | [File](WannaGame%20Championship%20%282024%29%2FAndroid%20Note%2FFiles%2FAndroidNote.apk.zst) | [Coming-Soon] |
 | niteCTF (2024) | Renderman | `Android` | [File](niteCTF%20%282024%29%2FRenderman%2FFiles%2Fhandout.zip) | [Coming-Soon] |
