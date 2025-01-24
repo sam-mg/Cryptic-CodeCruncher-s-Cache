@@ -45,6 +45,7 @@ This repository contains the CTFs I have participated in and the write-ups of th
 || freakada 3301 | `OSINT` | [File](niteCTF%20%282024%29%2Ffreakada%203301%2FFiles%2Ffreakada_3301_message.png) | [Coming-Soon] |
 | m0lecon (2025) Beginner | DroidCryptor | `Android` | [File](m0lecon%20%282025%29%20Beginner%2FDroidCryptor%2FFiles%2Fapp-debug.apk) | [Coming-Soon] |
 | KnightCTF (2025) | Knight's Droid | `Android` | [File](KnightCTF%20%282025%29%2Fknights_droid%2FFiles%2Fknights_droid.zip) | [Write-up](KnightCTF%20%282025%29%2FKnight%27s%20Droid%2FWrite-Up.md) |
+| TUCTF (2024) | My First Encryption | `Crypto` | [File](TUCTF%20%282024%29%2FMy%20First%20Encryption%2FFiles%2Fflag.jpeg) | [Write-up](TUCTF%20%282024%29%2FMy%20First%20Encryption/Write-Up.md) |
 
 <p align="right">
   <img src="https://wakatime.com/badge/user/f5bf5341-405c-480f-bd76-40a5c1a8ada9/project/9c6a4655-eaeb-4796-a3d7-f09bba6390ef.svg" alt="WakaTime Repo Image" />
