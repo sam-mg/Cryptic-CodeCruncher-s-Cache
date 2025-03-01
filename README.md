@@ -44,7 +44,7 @@ This repository contains the CTFs I have participated in and the write-ups of th
 || FireInTheHole | [File](PwnSec%20%282024%29%2FFireInTheHole/Files/FireInTheHole.apk) | [Write-up](PwnSec%20%282024%29%2FFireInTheHole/Write-Up.md) |
 || Snake | [File](PwnSec%20%282024%29%2FSnake%2FFiles%2Fsnake.apk) | [Write-up](PwnSec%20%282024%29%2FSnake%2FWrite-Up.md) |
 | World Wide Flags CTF (2024) | Remind's Funny Stories 3 | [File](World%20Wide%20Flags%20%282024%29%2FRemind%27s%20Funny%20Stories%203%2FFiles%2Ftruyencuoiremind_wwf.apk) | [Write-up](World%20Wide%20Flags%20%282024%29%2FRemind%27s%20Funny%20Stories%203%2FWrite-Up.md) |
-| LakeCTF (2024) | AndroidApplaketion | [File](LakeCTF%20%282024%29%2FAndroidApplaketion%2FFiles%2FAndroidApplaketion.apk) | [Coming-Soon] |
+| LakeCTF (2024) | AndroidApplaketion | [File](LakeCTF%20%282024%29%2FAndroidApplaketion%2FFiles%2FAndroidApplaketion.apk) | [Write-up](LakeCTF%20%282024%29%2FAndroidApplaketion%2FWrite-Up.md) |
 | niteCTF (2024) | Renderman | [File](niteCTF%20%282024%29%2FRenderman%2FFiles%2Fhandout.zip) | [Coming-Soon] |
 | m0lecon (2025) Beginner | DroidCryptor | [File](m0lecon%20%282025%29%20Beginner%2FDroidCryptor%2FFiles%2Fapp-debug.apk) | [Write-up](m0lecon%20%282025%29%20Beginner%2FDroidCryptor%2FWrite-Up.md) |
 | KnightCTF (2025) | Knight's Droid | [File](KnightCTF%20%282025%29%2Fknights_droid%2FFiles%2Fknights_droid.zip) | [Write-up](KnightCTF%20%282025%29%2FKnight%27s%20Droid%2FWrite-Up.md) |
