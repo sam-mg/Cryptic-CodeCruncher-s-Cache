@@ -1,0 +1,1 @@
+print(''.join(chr(ord(c) - 1) for c in "IUC|t2nqm4`gm5h`5s2uin4u2d~"))

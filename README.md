@@ -22,6 +22,8 @@ This repository contains the CTFs I have participated in and the write-ups of th
 || kuli-ah forensik | `Forensics` | [File](TCP1P%20%282024%29%2Fkuli-ah%20forensik/Files/kobokanaeruluvluv.jpg) | [Write-up](TCP1P%20%282024%29%2Fkuli-ah%20forensik/Write-Up.md) |
 | TUCTF (2024) | My First Encryption | `Crypto` | [File](TUCTF%20%282024%29%2FMy%20First%20Encryption%2FFiles%2Fflag.jpeg) | [Write-up](TUCTF%20%282024%29%2FMy%20First%20Encryption/Write-Up.md) |
 | nullcon HackIM CTF (2025) | Ancient Paper | `Misc` | [File](nullcon%20HackIM%20CTF%20%282025%29%2FAncient%20Paper%2FFiles%2Fancient-paper.jpg) | [Write-up](nullcon%20HackIM%20CTF%20%282025%29%2FAncient%20Paper%2FWrite-Up.md) |
+| Cyber Apocalypse CTF 2025: Tales from Eldoria | SealedRune | `re` | [File](Cyber%20Apocalypse%20CTF%202025%3A%20Tales%20from%20Eldoria%2FReversing%2FSealedRune%2FFiles%2Fchallenge) | [Write-up](Cyber%20Apocalypse%20CTF%202025%3A%20Tales%20from%20Eldoria%2FReversing%2FSealedRune%2FWrite-Up.md) |
+|| EncryptedScroll | `re` | [File](Cyber%20Apocalypse%20CTF%202025%3A%20Tales%20from%20Eldoria%2FReversing%2FEncryptedScroll%2FFiles%2Fchallenge) | [Write-up](Cyber%20Apocalypse%20CTF%202025%3A%20Tales%20from%20Eldoria%2FReversing%2FEncryptedScroll%2FWrite-Up.md) |
 
 ### Android CTFs Challenges
 | CTF Name & Year | Challenge Name | Challenge File | Write-up |
