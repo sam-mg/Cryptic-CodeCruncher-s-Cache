@@ -1,0 +1,1 @@
+print(''.join('bycnu)_aacGly~}tt+?=<_ML?f^i_vETkG+b{nDJrVp6()='[(i*i)%47] for i in range(23)))
